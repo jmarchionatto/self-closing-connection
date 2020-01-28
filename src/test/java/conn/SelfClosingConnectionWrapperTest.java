@@ -1,4 +1,4 @@
-package org.marchio.crystal;
+package conn;
 
 import java.sql.Connection;
 import java.sql.SQLException;
